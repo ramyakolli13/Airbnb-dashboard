@@ -140,4 +140,4 @@ This creates a cleaner, more interactive reporting experience.
 * Cross-filtering Between Visuals
 * Clean & Interactive Dashboard Design
 
-
+> **Note:** The original `.pbix` file exceeds GitHub's web upload size limit, so this repository includes the `.pbit` template and dashboard screenshots instead.
